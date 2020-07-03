@@ -1,0 +1,4 @@
+print("Hello github!")
+:wq
+
+
